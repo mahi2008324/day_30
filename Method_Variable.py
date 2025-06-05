@@ -20,7 +20,7 @@ class Method_Variables:
         print("This is static method ")
         d="ADMO"
         print("Local variable is : ",d)
-m=Method_Variables("1223")
+m=Method_Variables("AD L MO")
 m.instance_method()
 m.class_method()
 m.static_method()
